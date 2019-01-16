@@ -3,7 +3,7 @@
 ##### 增加exclude配置项
 配置文件.postcssrc.js（修改第三方库被影响的情况）
 ```
-"postcss-px-to-viewport": {
+"postcss-px-to-viewport-fix": {
       viewportWidth: 750,
       viewportHeight: 1334,
       unitPrecision: 3,
